@@ -9,7 +9,7 @@ The details about the project, work and results can be found in the [report](htt
 
 
 
-#Instructions To Run Code\
+# Instructions To Run Code\
  1. git clone https://github.com/Yash-coder916/PycK_fixIt\ 
  2. Install the neccessary modules using pip install (module_name) , do install the modules according to your operating system \
  3. You will see which module or library is to be installed for your os .\
