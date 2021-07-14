@@ -10,12 +10,12 @@ The details about the project, work and results can be found in the [report](htt
 
 
 #Instructions To Run Code\
- 1.git clone https://github.com/Yash-coder916/PycK_fixIt\ 
- 2.install the neccessary modules using pip install (module_name) , do install the modules according to your operating system \
- 3.You will see which module or library is to be installed for your os .\
- 4.After that run the autotimer.py, and stop it whenever you wish and run screenanalysis.py file to get analysis .\
- 5.also dont forget to convert the obtained .json file to .csv file using online convertor .\
- 6.After all this you can run notification.py to examine how does that works.\
+ 1. git clone https://github.com/Yash-coder916/PycK_fixIt\ 
+ 2. Install the neccessary modules using pip install (module_name) , do install the modules according to your operating system \
+ 3. You will see which module or library is to be installed for your os .\
+ 4. After that run the autotimer.py, and stop it whenever you wish and run screenanalysis.py file to get analysis .\
+ 5. Also dont forget to convert the obtained .json file to .csv file using online convertor .\
+ 6. After all this you can run notification.py to examine how does that works.\
 
 Note : Your code editor may warn you of some errors like the module is not present , do checkout in code for which os are the modules needed to be imported and do the intallation 
 using pip install accordingly .
