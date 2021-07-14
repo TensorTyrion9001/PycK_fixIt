@@ -1,0 +1,874 @@
+{
+    "activities": [
+        {
+            "name": "autotimer.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:18:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2021-07-14 10:18:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:18:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2021-07-14 10:18:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2021-07-14 10:18:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:19:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2021-07-14 10:19:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2021-07-14 10:19:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2021-07-14 10:19:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2021-07-14 10:27:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:28:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2021-07-14 10:28:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2021-07-14 10:28:42"
+                }
+            ]
+        },
+        {
+            "name": "Command Prompt",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:18:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2021-07-14 10:18:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:18:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:18:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2021-07-14 10:19:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:21:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:21:09"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:18:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:18:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:19:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:20:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:20:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:21:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:21:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:21:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:21:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:24:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:24:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:25:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:25:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:27:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:27:38"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft OneDrive",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2021-07-14 10:19:01"
+                }
+            ]
+        },
+        {
+            "name": "WhatsApp",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2021-07-14 10:19:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:20:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:25:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:25:52"
+                }
+            ]
+        },
+        {
+            "name": "uiautomation \u00b7 PyPI and 7 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:19:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:19:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:20:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:29:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:29:27"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2021-07-14 10:19:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:21:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2021-07-14 10:21:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2021-07-14 10:23:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:27:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2021-07-14 10:27:42"
+                }
+            ]
+        },
+        {
+            "name": "(4) One Day Builds: Automatic time tracking using Python - YouTube and 7 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:20:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2021-07-14 10:20:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:21:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2021-07-14 10:20:27"
+                }
+            ]
+        },
+        {
+            "name": "Volume Control",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:20:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:20:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:27:22",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 23,
+                    "start_time": "2021-07-14 10:25:59"
+                }
+            ]
+        },
+        {
+            "name": "KalleHallden/AutoTimer and 6 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:21:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:21:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:22:52",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 22,
+                    "start_time": "2021-07-14 10:21:29"
+                }
+            ]
+        },
+        {
+            "name": "ITSP-Strelax/Screen Time Analysis at main \u00b7 alakhagr/ITSP-Strelax and 6 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:22:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:22:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:22:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:23:07"
+                }
+            ]
+        },
+        {
+            "name": "ITSP-Strelax/activities (1).csv at main \u00b7 alakhagr/ITSP-Strelax and 6 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:22:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:22:56"
+                }
+            ]
+        },
+        {
+            "name": "youttube - Bing and 6 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2021-07-14 10:23:08"
+                }
+            ]
+        },
+        {
+            "name": "convert a json file to csv - Bing and 6 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:23:20"
+                }
+            ]
+        },
+        {
+            "name": "https://www.bing.com/search?q=convert+a+json+file+to+csv&qs=UT&pq=convert+a+json+file+to&sc=5-22&cvid=70C9C01FA34B44C6B0155B9AD315B02A&FORM=QBRE&sp=1 and 7 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:23:24"
+                }
+            ]
+        },
+        {
+            "name": "convert a json file to csv - Bing and 7 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2021-07-14 10:23:25"
+                }
+            ]
+        },
+        {
+            "name": "JSON to CSV Converter Online (formerly json-csv.com) and 7 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2021-07-14 10:23:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2021-07-14 10:23:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:24:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:28:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:28:07"
+                }
+            ]
+        },
+        {
+            "name": "Open",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:23:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2021-07-14 10:23:35"
+                }
+            ]
+        },
+        {
+            "name": "Program Manager",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:24:08"
+                }
+            ]
+        },
+        {
+            "name": "Search",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2021-07-14 10:24:13"
+                }
+            ]
+        },
+        {
+            "name": "Using Python Environments in Visual Studio Code - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:24:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:24:43"
+                }
+            ]
+        },
+        {
+            "name": "ARYAN AGAL | Microsoft Teams",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2021-07-14 10:24:32"
+                }
+            ]
+        },
+        {
+            "name": "Save As",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:24:39"
+                }
+            ]
+        },
+        {
+            "name": "Installing scikit-learn \u2014 scikit-learn 0.24.2 documentation - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:24:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:24:47"
+                }
+            ]
+        },
+        {
+            "name": "Documentation for Visual Studio Code - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:24:46"
+                }
+            ]
+        },
+        {
+            "name": "New Tab - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:24:49"
+                }
+            ]
+        },
+        {
+            "name": "YouTube - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:24:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2021-07-14 10:24:52"
+                }
+            ]
+        },
+        {
+            "name": "(1) YouTube - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:25:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2021-07-14 10:24:55"
+                }
+            ]
+        },
+        {
+            "name": "(1) Data analysis - YouTube - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:25:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2021-07-14 10:25:05"
+                }
+            ]
+        },
+        {
+            "name": "(1) graphical analysis of csv file edureka - YouTube - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:25:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2021-07-14 10:25:31"
+                }
+            ]
+        },
+        {
+            "name": "(1) Data Science Project - Covid-19 Data Analysis Project using Python | Python Training | Edureka - YouTube - Brave",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:25:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2021-07-14 10:25:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:25:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2021-07-14 10:25:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:27:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2021-07-14 10:27:22"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:27:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:27:40"
+                }
+            ]
+        },
+        {
+            "name": "activity.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:27:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:27:48"
+                }
+            ]
+        },
+        {
+            "name": "activity.pyc - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:27:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-07-14 10:27:49"
+                }
+            ]
+        },
+        {
+            "name": "ITSP-Strelax/Screen Time Analysis at main \u00b7 alakhagr/ITSP-Strelax and 7 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-07-14 10:28:08"
+                }
+            ]
+        },
+        {
+            "name": "ITSP-Strelax/screenanalysis.py at main \u00b7 alakhagr/ITSP-Strelax and 7 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2021-07-14 10:28:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:28:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2021-07-14 10:28:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:29:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-07-14 10:29:25"
+                }
+            ]
+        },
+        {
+            "name": "screenanalysis.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:29:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2021-07-14 10:28:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:29:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2021-07-14 10:29:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:30:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2021-07-14 10:29:28"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf screenanalysis.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-07-14 10:29:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2021-07-14 10:29:01"
+                }
+            ]
+        }
+    ]
+}
