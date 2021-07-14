@@ -10,4 +10,12 @@ Results
 
 
 Instructions To Run Code
-git clone  
+git clone https://github.com/Yash-coder916/PycK_fixIt 
+# install the neccessary modules using pip install (module_name) , do install the modules according to your operating system 
+# You will see which module or library is to be installed for your os .
+# After that run the autotimer.py, and stop it whenever you wish and run screenanalysis.py file to get analysis 
+# also dont forget to convert the obtained .json file to .csv file using online convertor .
+# After all this you can run notification.py to examine how does that works
+
+Note : Your code editor may warn you of some errors like the module is not present , do checkout in code for which os are the modules needed to be imported and do the intallation 
+using pip install accordingly .
