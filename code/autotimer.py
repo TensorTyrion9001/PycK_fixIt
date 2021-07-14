@@ -1,4 +1,3 @@
-
 import time
 from os import system
 from activity import *
